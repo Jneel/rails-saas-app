@@ -1,3 +1,6 @@
-# rails-saas-app
-Software as a Service App from the Complete Rails Course at https://www.udemy.com/the-complete-ruby-on-rails-developer-course/
-Complete Project Management App
+# Complete Project Management
+
+Software as a Service App from the
+[Udemy Complete Rails Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
+
+
